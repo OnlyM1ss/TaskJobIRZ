@@ -11,9 +11,6 @@ namespace ParserTask
         private void getJson()
         {
             ParseData parseData = new ParseData();
-            parseData.DownloadFile(url);
-            parseData.Decompress("json.gz", "json.json");
-            parseData.readJson("json.json");
         }
         public BuisnessLogic()
         {

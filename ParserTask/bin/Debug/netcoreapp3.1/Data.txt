@@ -1,0 +1,150 @@
+title: Selenium &amp; Beautiful Soup scraping is returning an unexpected result
+author: NotSoShabby
+answered?: True
+link: https://stackoverflow.com/questions/63424567/selenium-beautiful-soup-scraping-is-returning-an-unexpected-result
+---------------
+title: React-Beautiful-Dnd Can&#39;t Find Draggable Element with Id
+author: Elliptica
+answered?: True
+link: https://stackoverflow.com/questions/63417129/react-beautiful-dnd-cant-find-draggable-element-with-id
+---------------
+title: Beautiful Soup has problems with amazon,it
+author: Michele Avella
+answered?: True
+link: https://stackoverflow.com/questions/63413384/beautiful-soup-has-problems-with-amazon-it
+---------------
+title: beautiful soup scraping table after logging in a website
+author: Ahmed.B
+answered?: False
+link: https://stackoverflow.com/questions/63403220/beautiful-soup-scraping-table-after-logging-in-a-website
+---------------
+title: Beautiful Soup: How to get timestamp inside td
+author: Zachary Wyman
+answered?: False
+link: https://stackoverflow.com/questions/63405022/beautiful-soup-how-to-get-timestamp-inside-td
+---------------
+title: Unable to scrape h1 class with python/beautiful soup
+author: alyssajean
+answered?: False
+link: https://stackoverflow.com/questions/63379359/unable-to-scrape-h1-class-with-python-beautiful-soup
+---------------
+title: The whole page is not being parsed with Beautiful Soup
+author: s_haverford
+answered?: False
+link: https://stackoverflow.com/questions/63372235/the-whole-page-is-not-being-parsed-with-beautiful-soup
+---------------
+title: Extracting heading and strong tag with Beautiful Soup
+author: Daniel Pilch
+answered?: True
+link: https://stackoverflow.com/questions/21416217/extracting-heading-and-strong-tag-with-beautiful-soup
+---------------
+title: How to retrieve a title attribute from an image using Beautiful Soup
+author: Tanvir Chodhury
+answered?: True
+link: https://stackoverflow.com/questions/62070155/how-to-retrieve-a-title-attribute-from-an-image-using-beautiful-soup
+---------------
+title: Get outer html sections only using Beautiful Soup
+author: sshussain270
+answered?: False
+link: https://stackoverflow.com/questions/63368710/get-outer-html-sections-only-using-beautiful-soup
+---------------
+title: React Beautiful DnD unable to drop items to the bottom of a list or outside viewport
+author: J Doh&#39;
+answered?: False
+link: https://stackoverflow.com/questions/63347477/react-beautiful-dnd-unable-to-drop-items-to-the-bottom-of-a-list-or-outside-view
+---------------
+title: How to make Django Password Reset Email Beautiful HTML?
+author: Saqib Ali
+answered?: True
+link: https://stackoverflow.com/questions/21793829/how-to-make-django-password-reset-email-beautiful-html
+---------------
+title: Using Beautiful Soup and Proxy to Scrap the data from Amazon
+author: Hello World
+answered?: True
+link: https://stackoverflow.com/questions/63337938/using-beautiful-soup-and-proxy-to-scrap-the-data-from-amazon
+---------------
+title: PAGE NOT ITERATING USING BEAUTIFUL SOUP IN PYTHON FOR EBAY REVIEWS
+author: Yawar Abbas
+answered?: False
+link: https://stackoverflow.com/questions/63336567/page-not-iterating-using-beautiful-soup-in-python-for-ebay-reviews
+---------------
+title: AttributeError: &#39;NoneType&#39; object has no attribute &#39;find_all&#39; Python Web Scraping w/ Beautiful Soup
+author: Igris
+answered?: False
+link: https://stackoverflow.com/questions/63329718/attributeerror-nonetype-object-has-no-attribute-find-all-python-web-scrapin
+---------------
+title: Using Selenium and Beautiful Soup together
+author: Noah
+answered?: True
+link: https://stackoverflow.com/questions/63322113/using-selenium-and-beautiful-soup-together
+---------------
+title: Is there a simple way to readlines from text file to this beautiful soup lib python script?
+author: mjebay7
+answered?: True
+link: https://stackoverflow.com/questions/63323368/is-there-a-simple-way-to-readlines-from-text-file-to-this-beautiful-soup-lib-pyt
+---------------
+title: Issues web scrapping text from grid table values using Beautiful Soup for Python
+author: MasenCodes
+answered?: False
+link: https://stackoverflow.com/questions/63310768/issues-web-scrapping-text-from-grid-table-values-using-beautiful-soup-for-python
+---------------
+title: How to get to data-id inside li tag using beautiful soup?
+author: Anant Agarwal
+answered?: True
+link: https://stackoverflow.com/questions/63312109/how-to-get-to-data-id-inside-li-tag-using-beautiful-soup
+---------------
+title: Pagination in Beautiful Soup (Python) When URL doesn&#39;t change
+author: Jack Willow
+answered?: True
+link: https://stackoverflow.com/questions/63310809/pagination-in-beautiful-soup-python-when-url-doesnt-change
+---------------
+title: How can I replicate this beautiful dialogue box?
+author: Ryan Eom
+answered?: False
+link: https://stackoverflow.com/questions/63309775/how-can-i-replicate-this-beautiful-dialogue-box
+---------------
+title: How can dynamic css selectors be used with Beautiful Soup?
+author: baliepages
+answered?: True
+link: https://stackoverflow.com/questions/63293714/how-can-dynamic-css-selectors-be-used-with-beautiful-soup
+---------------
+title: Beautiful Soup only working when executing code manually line by line
+author: Amrit G
+answered?: False
+link: https://stackoverflow.com/questions/63292573/beautiful-soup-only-working-when-executing-code-manually-line-by-line
+---------------
+title: Scrape instance of Youtube verified badge using Beautiful Soup?
+author: maxim_karki
+answered?: True
+link: https://stackoverflow.com/questions/63286395/scrape-instance-of-youtube-verified-badge-using-beautiful-soup
+---------------
+title: Selenium Python and Beautiful Soup not finding the correct element with href?
+author: gabopushups
+answered?: False
+link: https://stackoverflow.com/questions/63292365/selenium-python-and-beautiful-soup-not-finding-the-correct-element-with-href
+---------------
+title: How to scrape multiple pages of search results with Beautiful Soup
+author: AdamA
+answered?: True
+link: https://stackoverflow.com/questions/60403887/how-to-scrape-multiple-pages-of-search-results-with-beautiful-soup
+---------------
+title: beautiful soup get text from script tag aws
+author: Rodrigo
+answered?: False
+link: https://stackoverflow.com/questions/62988797/beautiful-soup-get-text-from-script-tag-aws
+---------------
+title: strange offset between cursor and dragged card in react-beautiful-dnd when i&#39;m using the zoom scale of the page
+author: ManSour
+answered?: False
+link: https://stackoverflow.com/questions/63270710/strange-offset-between-cursor-and-dragged-card-in-react-beautiful-dnd-when-im-u
+---------------
+title: timings problems in hackerrank in “Beautiful Triplets” question
+author: niladri mandal
+answered?: True
+link: https://stackoverflow.com/questions/60204114/timings-problems-in-hackerrank-in-beautiful-triplets-question
+---------------
+title: Navigating Through HTML of a website using beautiful soup on python to select specific tag
+author: Vinnie Mac
+answered?: True
+link: https://stackoverflow.com/questions/63271289/navigating-through-html-of-a-website-using-beautiful-soup-on-python-to-select-sp
+---------------
